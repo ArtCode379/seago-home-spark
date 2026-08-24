@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T01:38:22.641132+00:00",
+  "slug": "seago-home-spark",
+  "type": "shop",
+  "package": "seago.household.seagohomespark",
+  "prefix": "KGUGN",
+  "app_name": "Seago Home Spark",
+  "task_gid": "1217445085646228",
+  "task_name": "GB GW4 C1514",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217445085646228",
+  "domain": "https://seago.surf",
+  "company": "SEAGO LTD",
+  "repo_url": "https://github.com/ArtCode379/seago-home-spark",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
