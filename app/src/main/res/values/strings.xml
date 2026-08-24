@@ -5,7 +5,7 @@
     <string name="kgugn_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="kgugn_top_bar_home_title">Home/App Title</string>
+    <string name="kgugn_top_bar_home_title">Seago Home Spark</string>
     <string name="kgugn_top_bar_cart_title">Cart</string>
     <string name="kgugn_top_bar_checkout_title">Checkout</string>
     <string name="kgugn_top_bar_orders_title">Orders</string>
@@ -57,16 +57,21 @@
 
     <!-- checkout dialog -->
     <string name="kgugn_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="kgugn_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
+    <string name="kgugn_checkout_success_message">Your reservation is confirmed. Your order number is shown in Order History, and your items will be waiting in store for 24 hours.</string>
     <string name="kgugn_checkout_dialog_confirm">Done</string>
 
     <!-- settings screen -->
     <string name="kgugn_settings_screen_company_label">Company</string>
     <string name="kgugn_settings_screen_version_label">Version</string>
     <string name="kgugn_settings_screen_customer_support_label">Customer Support</string>
-    <string name="kgugn_company_name">Company Name</string>
+    <string name="kgugn_company_name">SEAGO LTD</string>
     <string name="kgugn_app_version">1.0.0</string>
-    <string name="kgugn_customer_support_link">https://website.org/</string>
+    <string name="kgugn_customer_support_link">https://seago.surf</string>
+
+    <string name="kgugn_category_home">Home</string>
+    <string name="kgugn_category_stationery">Stationery</string>
+    <string name="kgugn_category_accessories">Accessories</string>
+    <string name="kgugn_category_gifts">Gifts</string>
 
     <!-- clear cart dialog -->
     <string name="kgugn_clear_cart_dialog_title">Clear cart?</string>
